@@ -1,6 +1,4 @@
-# Contacts
-
-## Docker launch
+# Docker launch
 
 ### Start the compilation process
 ```
